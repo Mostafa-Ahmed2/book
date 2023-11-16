@@ -46,5 +46,5 @@ def create_review(n):
         
         
 #create_author(100)
-create_book(100)
-#create_review(30)        
+#create_book(100)
+create_review(30)        
