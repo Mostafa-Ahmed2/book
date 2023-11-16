@@ -23,7 +23,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     
     
-    #path('',include('book.urls') ),
+    path('',include('book.urls') ),
     
 ]
 
